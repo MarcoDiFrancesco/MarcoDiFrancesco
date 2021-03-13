@@ -8,7 +8,8 @@ Data scientist currently studying Computer Science at the University of Trento.
 ](https://t.me/marcodifrancesco)
 
 <center>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=marcodifrancesco&show_icons=true)
+[
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=marcodifrancesco&show_icons=true)
+](https://github.com/MarcoDiFrancesco)
 
 </center>
