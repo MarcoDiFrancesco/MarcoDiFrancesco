@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Di Francesco</h1>
 
 ### About me
-I’m a B.Sc student in **Computer Science** at the University of Trento. I’ve been working at the Research Center Bruno Kessler foundation (FBK) as a **Junior Data Scientist**, focusing on the application of **Machine Learning** where I developed **Artificial Intelligence systems** applied to the fields of healthcare and environment.
+• Computer Science undergraduate of the University of Trento
+• Junior Data Scientist at the Research Center FBK
+• Focussing on Machine Learning applications
+• Developing Artificial Intelligence Systems applied to the fields of healthcare
 
 ### Contacts
 [
