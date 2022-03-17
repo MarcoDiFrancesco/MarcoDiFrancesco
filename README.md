@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Di Francesco</h1>
 
 ### About me
-• Computer Science undergraduate of the University of Trento
-• Junior Data Scientist at the Research Center FBK
-• Focussing on Machine Learning applications
-• Developing Artificial Intelligence Systems applied to the fields of healthcare
+• Computer Science undergraduate of the University of Trento  
+• Junior Data Scientist at the Research Center FBK  
+• Focussing on Machine Learning applications  
+• Developing Artificial Intelligence Systems applied to the fields of healthcare  
 
 ### Contacts
 [
