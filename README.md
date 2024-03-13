@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Di Francesco</h1>
 
 ### About me
-• Specializing in Online Machine Learning applications ⌚🕰️⏲️⏱️⏰  
-• Specializing in Online Machine Learning applications  
+• Specializing in Online Machine Learning for Robotics @ ABB ⏰  
+• Msc Student at Aalto university + Twente University 👨‍🎓  
+• Finance and Geopolitics nerd 🤓  
+• No Pineapple on Pizza pls 🩷  
 
 ### Contacts
 [
