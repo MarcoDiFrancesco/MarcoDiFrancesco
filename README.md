@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Di Francesco</h1>
 
 ### About me
+• Specializing in Online Machine Learning applications ⌚🕰️⏲️⏱️⏰  
 • Specializing in Online Machine Learning applications  
 
 ### Contacts
