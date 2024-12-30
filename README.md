@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marco Di Francesco</h1>
 
 ### About me
-I’m a Data Science student 🎓 at Aalto University expecting to graduate in Sep 2024. My journey in Data Science 📊 started 4 years ago, where I initlially worked on Computer Vision models for biomedicine 💉, and later specialized in Online Learning algorithms ⌚️. I’m always courious and very open to learn new Data Science technologies to broaden my experience in this field 🤓.
+I recently graduated with double degree in Data Science from Aalto University and Twente university 🎓. My journey in Data Science 📊 began 4 years ago when I initially focused on developing Computer Vision models for biomedical applications 💉. Later, I specialized in Online Learning algorithms ⌚️ within the robotics environment. I am always curious and eager to explore new Data Science technologies to expand my expertise in the field 🤓.
 
 TLDR:  
-• Specializing in Online Machine Learning for Robotics @ ABB ⏰  
-• Msc Student at Aalto university + Twente University 👨‍🎓  
+• Specialized in Online Machine Learning for Robotics @ ABB ⏰  
+• Data Science Msc Graduate from: Aalto university and Twente University 👨‍🎓  
 • Finance and Geopolitics nerd 🤓  
 • No Pineapple on Pizza pls 🩷  
 
