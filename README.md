@@ -5,7 +5,7 @@ I am a Data Scientist 📊 building Predictive AI Solutions in banking. I create
 
 TLDR: 
 - Data Scientist ⏰ 
-- Msc in Data Science | Double degree in Aalto University [Helsinki] and Twente University [Netherlands] 👨‍🎓 
+- Msc in Data Science | Msc in Data Science | Double degree at Aalto University and Twente University 👨‍🎓
 - Finance and Tech nerd 🤓 
 - No Pineapple on Pizza pls 🩷
 
